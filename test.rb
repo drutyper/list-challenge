@@ -1,5 +1,7 @@
 require 'minitest/autorun'
 require 'pry'
+require "./listanalyzer"
+
 
 class ListAnalyzer
 end
